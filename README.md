@@ -188,6 +188,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## Output screen shots of proteus  :
  
+![WhatsApp Image 2025-06-03 at 17 59 09_4e764283](https://github.com/user-attachments/assets/b491681e-fc2f-4926-86f7-282bb97f94f7)
 
 
  
