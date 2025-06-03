@@ -180,9 +180,9 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   Lcd_HandleTypeDef lcd;
   lcd = Lcd_create(ports, pins, GPIOB, GPIO_PIN_0, GPIOB, GPIO_PIN_1, LCD_4_BIT_MODE);
   Lcd_cursor(&lcd, 0,1);
-  Lcd_string(&lcd,"DHIRAVIYA");
+  Lcd_string(&lcd,"SANJUSHRI");
   Lcd_cursor(&lcd, 1,1);
-  Lcd_string(&lcd,"212223040041");
+  Lcd_string(&lcd,"212223040187");
 ```
 
 
